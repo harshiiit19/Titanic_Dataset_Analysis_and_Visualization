@@ -1,4 +1,7 @@
-# 📁 Dataset
+# 🚢 Titanic Dataset Analysis and Visualization
+This project involves a complete exploratory data analysis (EDA) on the Titanic dataset using Python. It covers missing value treatment using machine learning, feature understanding, and data visualization to uncover insights.
+
+📁 Dataset
 The dataset used is the Titanic dataset, loaded directly from Seaborn's inbuilt datasets. It contains information about the passengers aboard the Titanic, including:
 
 Passenger demographics (age, gender, class, etc.)
